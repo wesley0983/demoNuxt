@@ -1,3 +1,10 @@
 .header{
-  background-color: #526488;
+  background-color: #ff4500;
+  display: flex;
+  align-items: center;
+  padding: 40px;
+  &_menus{
+
+    color: #526488;
+  }
 }
