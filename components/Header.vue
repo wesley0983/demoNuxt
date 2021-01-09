@@ -2,7 +2,7 @@
   <header>
     <div class="header">
       <img src="https://assets.website-files.com/5ee8e4acb0f1113df06e0942/5eff23cc3eab87cb7a7e6a15_Altar%20Logo%402x.png" alt="">
-      <div class="header_menus">
+      <div class="menus">
         <div class="menus-item">Features</div>
         <div class="menus-item">Pricing</div>
         <div class="menus-item">Blog</div>
@@ -19,6 +19,6 @@
 <script>
 
 </script>
-<style>
+<style lang="scss">
 @import "../assets/header.scss";
 </style>
