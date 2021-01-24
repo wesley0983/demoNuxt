@@ -5,8 +5,19 @@
   padding: 40px;
 
   .menus {
-
+    display: flex;
+    flex: 1;
     background-color: #526488;
+    &-item{
+      background-color: #3b8070;
+      margin-left: 40px
+    }
+  }
+  .loginbar{
+    display: flex;
+    .login-btn{
+      cursor: pointer; //屬標點擊手勢
+    }
   }
 
 }
